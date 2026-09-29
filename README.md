@@ -1,4 +1,4 @@
-# MIDI Voice Box Synth
+# RobotChant - Hardware MIDI speech synthesiser
 
 A monophonic **speech synthesiser played from a MIDI keyboard**. Each note-on
 speaks the next word of a lyric, pitched by the note. It is deliberately
