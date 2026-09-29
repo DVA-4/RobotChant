@@ -13,6 +13,10 @@ playhead that follows the performance.
 <img src="docs/images/RobotChant.jpg" width="409">
 ---
 
+VIDEO:
+
+[![Alt text](https://img.youtube.com/vi/y17aDi4lsz4/0.jpg)](https://www.youtube.com/watch?v=y17aDi4lsz4)
+
 **Status:** finished, cased and played. See [`docs/project.md`](docs/project.md)
 for the full design record.
 
