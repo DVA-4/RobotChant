@@ -1,4 +1,4 @@
-# MIDI Voice Box Synth
+# RobotChant - Hardware MIDI speech synthesiser
 
 A monophonic **speech synthesiser played from a MIDI keyboard**. Each note-on
 speaks the next word of a lyric, pitched by the note. It is deliberately
@@ -8,6 +8,10 @@ A Raspberry Pi Pico 2 hosts a USB MIDI controller and drives a SpeakJet chip on
 SparkFun's Voice Box Shield. The lyric is edited live on an M5Stack Tab5
 keyboard and shown on a 128×64 SH1106 OLED, with the sounding word large and a
 playhead that follows the performance.
+
+---
+<img src="docs/images/RoboChant.jpg" width="409">
+---
 
 **Status:** finished, cased and played. See [`docs/project.md`](docs/project.md)
 for the full design record.
