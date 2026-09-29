@@ -10,7 +10,7 @@ keyboard and shown on a 128×64 SH1106 OLED, with the sounding word large and a
 playhead that follows the performance.
 
 ---
-<img src="docs/images/RoboChant.jpg" width="409">
+<img src="docs/images/RobotChant.jpg" width="409">
 ---
 
 **Status:** finished, cased and played. See [`docs/project.md`](docs/project.md)
