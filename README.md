@@ -141,4 +141,4 @@ SpeakJet library (GPL v2). Other third-party material, including the CMUdict
 notice that `bigdict.cpp` requires, is listed in
 [`THIRD_PARTY.md`](THIRD_PARTY.md).
 
-Copyright © 2026 YOUR NAME
+Copyright © 2026 Fabian Rieber

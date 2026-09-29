@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// Copyright (c) 2026 YOUR NAME
+// Copyright (c) 2026 Fabian Rieber
 // This font is MIT-licensed, unlike the rest of the firmware (GPL-2.0), so it
 // can be reused in any project. Full licence text: THIRD_PARTY.md.
 // 5x7 font table — ASCII 0x20..0x7A, 5 bytes/glyph, columns L→R, bit0=top.

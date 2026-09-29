@@ -88,7 +88,7 @@ GPL-2.0 firmware, so it can be reused in any project:
 ```
 MIT License
 
-Copyright (c) 2026 YOUR NAME
+Copyright (c) 2026 Fabian Rieber
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
